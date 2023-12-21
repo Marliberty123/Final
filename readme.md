@@ -28,3 +28,6 @@
       f'{animals}.\n\n'
       f'Filtered list:\n'
       f'{result}.')
+
+# Блок схема
+
